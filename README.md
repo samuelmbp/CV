@@ -49,19 +49,17 @@ I believe communication is essential when dealing with clients, users or teammat
 
 **Harrods Clinique(Estée Lauder) Department** (Dec 2017 — Jan 2022)  
 
-_STOCK COORDINATOR_
+_Stock Coordinator_
 
 - Assist the standard of merchandising to ensure appropriate presentation of stock
 - Supervise the maintenance of a warehouse/storeroom and ensure proper arrangement of stock
 - Assisted with the placing of orders and ensure requested goods are delivered on time
 - Check stock has the correct tickets, support with the preparation and execution of stock takes and ensure stockroom is neat, tidy and stock is well managed and organised
 
-**ASDA** (SEP 2016 — DEC 2017)
+**Asda** (SEP 2016 — DEC 2017)
 
-_CUSTOMER SERVICE_
+_Customer Service_
 
 - Arranged and aesthetically displayed the product
 - Managed and organised a team of four to maintain the standard of the workload
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
-
-- - - -
