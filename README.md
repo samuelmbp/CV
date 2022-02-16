@@ -21,6 +21,7 @@ I believe communication is essential when dealing with clients, users or teammat
 - I have a methodical approach to my work load 
 - Excellent communication, interpersonal skills and attention to detail
 
+
 - - - - 
 
 ## Languages
@@ -42,7 +43,25 @@ I believe communication is essential when dealing with clients, users or teammat
 - Frequently pairing in order to problemsolve effeciently, requiring teamwork and communication
 
 
-#### Other qualifications
+- - - - 
 
+## Work Experience
 
+**Harrods Clinique(Estée Lauder) Department** (Dec 2017 — Jan 2022)  
 
+_STOCK COORDINATOR_
+
+- Assist the standard of merchandising to ensure appropriate presentation of stock
+- Supervise the maintenance of a warehouse/storeroom and ensure proper arrangement of stock
+- Assisted with the placing of orders and ensure requested goods are delivered on time
+- Check stock has the correct tickets, support with the preparation and execution of stock takes and ensure stockroom is neat, tidy and stock is well managed and organised
+
+**ASDA** (SEP 2016 — DEC 2017)
+
+_CUSTOMER SERVICE_
+
+- Arranged and aesthetically displayed the product
+- Managed and organised a team of four to maintain the standard of the workload
+- Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
+
+- - - -
