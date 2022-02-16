@@ -41,6 +41,14 @@ TO ADD THE REASON WHY I LEFT THE JOB AND TRANSICTIONING INTO TECH
 
 - - - - 
 
+## Education
+
+#### Makers Academy, London UK (Jan 2022 — Current)
+
+- A 16-week intensive software development bootcamp
+- Focus on Test Driven Development (TDD)
+- Frequently pairing in order to problemsolve effeciently, requiring teamwork and communication
+
 #### Your University / College (start_date to end_date)
 
 - Subject, any specialisms
