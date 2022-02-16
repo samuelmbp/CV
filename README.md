@@ -21,7 +21,6 @@ I believe communication is essential when dealing with clients, users or teammat
 - I have a methodical approach to my work load 
 - Excellent communication, interpersonal skills and attention to detail
 
-
 - - - - 
 
 ## Languages
@@ -30,7 +29,6 @@ I believe communication is essential when dealing with clients, users or teammat
 - English | Fluent
 - Italian | Fluent
 - Spanish | Basic
-
 
 - - - - 
 
@@ -41,7 +39,6 @@ I believe communication is essential when dealing with clients, users or teammat
 - A 16-week intensive software development bootcamp
 - Focus on Test Driven Development (TDD)
 - Frequently pairing in order to problemsolve effeciently, requiring teamwork and communication
-
 
 - - - - 
 
@@ -63,3 +60,9 @@ _Customer Service_
 - Arranged and aesthetically displayed the product
 - Managed and organised a team of four to maintain the standard of the workload
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
+
+- - - -
+
+## Interests & Activities
+
+Technology | Reading | Traveling | Fitness | Photography | Snowboarding
