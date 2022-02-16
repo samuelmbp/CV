@@ -1,18 +1,10 @@
-## Samuel Raducan
+# Samuel Raducan
 
 I am a highly motivated individual who wants to be challenged so that I can reach my full potential in Software Development. 
 I am very keen to gain experience within a company so that I can put my knowledge and the skills that I have aquired at Makers Academy to use.
 I believe communication is essential when dealing with clients, users or teammates, especially when relaying information.
 
-TO ADD THE REASON WHY I LEFT THE JOB AND TRANSICTIONING INTO TECH
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+- - - - 
 
 ## Skills
 
@@ -49,14 +41,8 @@ TO ADD THE REASON WHY I LEFT THE JOB AND TRANSICTIONING INTO TECH
 - Focus on Test Driven Development (TDD)
 - Frequently pairing in order to problemsolve effeciently, requiring teamwork and communication
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Other qualifications
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 
