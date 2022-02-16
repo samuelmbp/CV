@@ -12,7 +12,7 @@ I believe communication is essential when dealing with clients, users or teammat
 - HTML | CSS
 - Git | Github
 
-- - - - 
+ 
 
 ## Soft Skills
 
@@ -21,7 +21,7 @@ I believe communication is essential when dealing with clients, users or teammat
 - I have a methodical approach to my work load 
 - Excellent communication, interpersonal skills and attention to detail
 
-- - - - 
+
 
 ## Languages
 
@@ -30,7 +30,7 @@ I believe communication is essential when dealing with clients, users or teammat
 - Italian | Fluent
 - Spanish | Basic
 
-- - - - 
+ 
 
 ## Education
 
@@ -40,7 +40,7 @@ I believe communication is essential when dealing with clients, users or teammat
 - Focus on Test Driven Development (TDD)
 - Frequently pairing in order to problemsolve effeciently, requiring teamwork and communication
 
-- - - - 
+
 
 ## Work Experience
 
@@ -61,7 +61,7 @@ _Customer Service_
 - Managed and organised a team of four to maintain the standard of the workload
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
 
-- - - -
+
 
 ## Interests & Activities
 
