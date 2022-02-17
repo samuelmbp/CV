@@ -40,6 +40,11 @@ I believe communication is essential when dealing with clients, users or teammat
 - Focus on Test Driven Development (TDD)
 - Frequently pairing in order to problemsolve effeciently, requiring teamwork and communication
 
+#### Technical College (Romania) (SEP 2011 — JUL 2014)
+
+_Hospitality & Tourism_
+
+- Obtained the national grades in the following subjects; Math | Science | Romanian Literature & Language | Geography | Information Technology | French & English Language
 
 
 ## Work Experience
