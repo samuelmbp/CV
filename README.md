@@ -42,7 +42,7 @@ I believe communication is essential when dealing with clients, users or teammat
 
 #### Technical College (Romania) (SEP 2011 — JUL 2014)
 
-_Hospitality & Tourism_
+_Tourism & Hospitality_
 
 - Obtained the national grades in the following subjects; Math | Science | Romanian Literature & Language | Geography | Information Technology | French & English Language
 
