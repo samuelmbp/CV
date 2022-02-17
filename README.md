@@ -71,3 +71,10 @@ _Customer Service_
 ## Interests & Activities
 
 Technology | Reading | Traveling | Fitness | Photography | Snowboarding
+
+
+## Contact Details
+
+- Linkedin — [https://www.linkedin.com/in/samuel-raducan](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
+- Github — [samuelmbp](https://github.com/samuelmbp)
+- Codewars — (https://www.codewars.com/users/samuelmbp)
