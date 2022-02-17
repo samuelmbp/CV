@@ -77,4 +77,4 @@ Technology | Reading | Traveling | Fitness | Photography | Snowboarding
 
 - Linkedin — [https://www.linkedin.com/in/samuel-raducan](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
 - Github — [samuelmbp](https://github.com/samuelmbp)
-- Codewars — (https://www.codewars.com/users/samuelmbp)
+- Codewars — [https://www.codewars.com/users/samuelmbp](https://www.codewars.com/users/samuelmbp)
