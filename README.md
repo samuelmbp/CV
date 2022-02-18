@@ -22,9 +22,9 @@ If you think you’re looking for a highly motivated individual, ready to take o
 
 ## Soft Skills
 
-- I am punctual and proactive
+- Punctual and proactive
 - Fast learner
-- I have a methodical approach to my work load 
+- Methodical approach to work load 
 - Excellent communication, interpersonal skills and attention to detail
 
 
