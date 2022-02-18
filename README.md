@@ -1,8 +1,14 @@
 # Samuel Raducan
 
-I am a highly motivated individual who wants to be challenged so that I can reach my full potential in Software Development. 
-I am very keen to gain experience within a company so that I can put my knowledge and the skills that I have aquired at Makers Academy to use.
-I believe communication is essential when dealing with clients, users or teammates, especially when relaying information.
+For the past 5 years I have worked in retail, being responsible for various roles. 
+Whilst I got better with my daily workload, yet I felt I was dealing with the same tasks almost everyday, until I realised that there was much more I could do. 
+
+Being surrounded by Software Engineer friends, I felt motivated to challenge myself in this new field so this is exactly what I did: during the first lockdown with much more time off at my disposal, I took some courses in HTML, CSS and JavaScript. I started coding regularly during that time and then kept going even when I resumed my job, everyday mostly during my lunch breaks at work and in the evenings. So I pretty soon realised that I definitely wanted to be fully part of this field and make it my career, where I could challenge myself to the fullest, learn new things everyday and use technology at its highest potential to create something useful and efficient. 
+
+That being said, I eventually made the big step: I left my job so I could enroll at Makers Academy and take on a full time 16-week intensive course in order to improve upon the skills that I had worked on during this time and finally be on the way to become a software developer.
+
+If you think you’re looking for a high-motivated individual, ready to take on challenges and willing to adapt to whatever the workload requires, then please get in touch. 
+
 
 - - - - 
 
