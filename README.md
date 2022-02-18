@@ -7,7 +7,7 @@ Being surrounded by Software Engineer friends, I felt motivated to challenge mys
 
 That being said, I eventually made the big step: I left my job so I could enroll at Makers Academy and take on a full time 16-week intensive course in order to improve upon the skills that I had worked on during this time and finally be on the way to become a software developer.
 
-If you think you’re looking for a high-motivated individual, ready to take on challenges and willing to adapt to whatever the workload requires, then please get in touch. 
+If you think you’re looking for a highly motivated individual, ready to take on challenges and willing to adapt to whatever the workload requires, then please get in touch. 
 
 
 - - - - 
