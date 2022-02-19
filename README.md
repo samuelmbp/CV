@@ -12,13 +12,6 @@ If you think you’re looking for a highly motivated individual, ready to take o
 
 - - - - 
 
-## Skills
-
-- Ruby | Python | JavaScript
-- HTML | CSS
-- Git | Github
-
- 
 
 ## Soft Skills
 
@@ -26,6 +19,14 @@ If you think you’re looking for a highly motivated individual, ready to take o
 - Fast learner
 - Methodical approach to work load 
 - Excellent communication, interpersonal skills and attention to detail
+
+
+
+## Tech Skills
+
+- Ruby | Python | JavaScript
+- HTML | CSS
+- Git | Github
 
 
 
@@ -40,7 +41,7 @@ If you think you’re looking for a highly motivated individual, ready to take o
 
 ## Education
 
-#### Makers Academy, London UK (Jan 2022 — Current)
+#### [Makers Academy](https://makers.tech/), London UK (Jan 2022 — Current)
 
 - A 16-week intensive software development bootcamp
 - Focus on Test Driven Development (TDD)
