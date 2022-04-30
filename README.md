@@ -15,23 +15,27 @@ That being said, I eventually made the big step: I left my job so I could enroll
 
 ## Soft Skills
 
-**Punctual & proactive** </br>
-**Fast learner** </br>
-**Methodical approach to work load** </br>
-**Excellent communication, interpersonal skills and attention to detail** </br>
+- Punctual & proactive
+- Excellent communicator
+- Adaptable and team player
+- Fast learner and curious 
+- Methodical approach to work load
+- Problem solver & attention to detail
 
 
 
 ## Tech Skills
 
-> `.JavaScript` `.Ruby`  `.Python`  
-> `.NodeJS`  `.React`   
-> `.HTML`  `.CSS`  
-> `.Git`  `.Github`
+- `.JavaScript` `.NodeJS` `.Express` `.React`  
+- `.Ruby` `.RSpec` `.Sinatra` `.Capybara`
+- `.Python` `.Django`
+-  `.PostgreSql` `.MongoDB` `.Mongoose`  
+-  `.HTML`  `.CSS` 
+-  `.Git`  `.Github`
 
 ## Projects
 
-Project |  Description  | Technologies Used
+Name |  Description  | Technologies Used
 | ----- | ------------ | --------------- |
 | [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social Media Website | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` 
 |[Makers bnb](https://github.com/samuelmbp/makersbnb)| Short-term rental website for travelers going away (clone airbnb) | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css` 
