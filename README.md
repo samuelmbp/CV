@@ -26,12 +26,17 @@ That being said, I eventually made the big step: I left my job so I could enroll
 
 > `.JavaScript` `.Ruby`  `.Python`  
 > `.NodeJS`  `.React`   
-> `.html`  `.CSS`  
+> `.HTML`  `.CSS`  
 > `.Git`  `.Github`
 
+## Projects
 
+Project |  Description  | Technologies Used
+| ----- | ------------ | --------------- |
+| [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social Media Website | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` 
+|[Makers bnb](https://github.com/samuelmbp/makersbnb)| Short-term rental website for travelers going away (clone airbnb) | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css` 
 
-## Languages
+## Languages  
 
 - Romanian [native]
 - English  [fluent]
