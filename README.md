@@ -20,7 +20,7 @@ That being said, I eventually made the big step: I left my job so I could enroll
 - Adaptable and team player
 - Fast learner and curious 
 - Methodical approach to work load
-- Problem solver & attention to detail
+- Problem solver with attention to detail
 
 
 
@@ -49,19 +49,43 @@ Name |  Description  | Technologies Used
 
 
 ## Education
-
+----
 #### [Makers Academy](https://makers.tech/), London UK (Jan 2022 — Current)
 
 - A 16-week intensive software development bootcamp
 - Focus on Test Driven Development (TDD)
-- Frequently pairing in order to problemsolve effeciently, requiring teamwork and communication
+- Frequently pairing in order to problem solve efficiently, requiring teamwork and communication
+
+
+#### [Code With Mosh](https://codewithmosh.com/) 
+
+**_November - December 2022_**
+- The Ultimate Django Series: Fundamentals | [Overview](https://codewithmosh.com/p/the-ultimate-django-part1)
+- The Ultimate Django Series: Secure RESTful API's | [Overview](https://codewithmosh.com/p/the-ultimate-django-part2)
+- The Ultimate Git Mastery | [Overview](https://codewithmosh.com/p/the-ultimate-git-course)
+
+**_April - October 2022_**
+- The Ultimate HTML/CSS Mastery Series | [Course Bundle Overview](https://codewithmosh.com/p/the-ultimate-html-css)
+- Fundamentals of Javascript | [Overview](https://codewithmosh.com/p/javascript-basics-for-beginners)
+- Object-oriented Programming in JavaScript | [Overview](https://codewithmosh.com/p/object-oriented-programming-in-javascript)
+
+
+**_January - March 2021_** | [Course Bundle Overview](https://codewithmosh.com/p/the-ultimate-java-mastery-series)
+
+- Ultimate Java Part 1: Fundamentals 
+- Ultimate Java Part 2: Object-oriented Programming 
+- Ultimate Java Part 3: Advanced Topics 
+
+#### [Coursera](https://www.coursera.org/) (October - November 2020)
+- Programming for Everybody - Getting Started with Python | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) 
+- Python Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
 
 #### Technical College (Romania) (SEP 2011 — JUL 2014)
 
 _Tourism & Hospitality_
 
 - Obtained the national grades in the following subjects; Math | Science | Romanian Literature & Language | Geography | Information Technology | French & English Language
-
+----
 
 ## Work Experience
 
@@ -69,10 +93,10 @@ _Tourism & Hospitality_
 
 _Stock Coordinator_
 
-- Assist the standard of merchandising to ensure appropriate presentation of stock
-- Supervise the maintenance of a warehouse/storeroom and ensure proper arrangement of stock
-- Assisted with the placing of orders and ensure requested goods are delivered on time
-- Check stock has the correct tickets, support with the preparation and execution of stock takes and ensure stockroom is neat, tidy and stock is well managed and organized
+- Assisted the standard of merchandising to ensure appropriate presentation of stock
+- Supervised the maintenance of a warehouse/storeroom and ensured proper arrangement of stock
+- Assisted with the placing of orders and ensured requested goods were delivered on time
+- Checked stock had the correct tickets, supported with the preparation and execution of stock takes and ensured stockroom was neat, tidy and stock well managed and organized
 
 **Asda** (SEP 2016 — DEC 2017)
 
@@ -82,12 +106,13 @@ _Customer Service_
 - Managed and organized a team of four to maintain the standard of the workload
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
 
-
+----
 
 ## Interests & Activities
 
 Technology | Reading | Traveling | Fitness | Photography | Snowboarding
 
+----
 
 ## Contact Details
 
