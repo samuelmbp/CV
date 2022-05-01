@@ -52,10 +52,11 @@ Name |  Description  | Technologies Used
 ----
 #### [Makers Academy](https://makers.tech/), London UK (Jan 2022 — Current)
 
-- A 16-week intensive software development bootcamp
-- Focus on Test Driven Development (TDD)
-- Frequently pairing in order to problem solve efficiently, requiring teamwork and communication
+Highly selective 16-week intensive computer programming bootcamp.
 
+- Focus on Test Driven Development with emphasis on pair programming and working in an agile way.
+- Object oriented programming & software design.
+- Full-Stack web development.
 
 #### [Code With Mosh](https://codewithmosh.com/) 
 
