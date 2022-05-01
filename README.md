@@ -60,12 +60,12 @@ Highly selective 16-week intensive computer programming bootcamp.
 
 #### [Code With Mosh](https://codewithmosh.com/) 
 
-**_November - December 2022_**
+**_November - December 2021_**
 - The Ultimate Django Series: Fundamentals | [Overview](https://codewithmosh.com/p/the-ultimate-django-part1)
 - The Ultimate Django Series: Secure RESTful API's | [Overview](https://codewithmosh.com/p/the-ultimate-django-part2)
 - The Ultimate Git Mastery | [Overview](https://codewithmosh.com/p/the-ultimate-git-course)
 
-**_April - October 2022_**
+**_April - October 2021_**
 - The Ultimate HTML/CSS Mastery Series | [Course Bundle Overview](https://codewithmosh.com/p/the-ultimate-html-css)
 - Fundamentals of Javascript | [Overview](https://codewithmosh.com/p/javascript-basics-for-beginners)
 - Object-oriented Programming in JavaScript | [Overview](https://codewithmosh.com/p/object-oriented-programming-in-javascript)
@@ -85,7 +85,7 @@ Highly selective 16-week intensive computer programming bootcamp.
 
 _Tourism & Hospitality_
 
-- Obtained the national grades in the following subjects; Math | Science | Romanian Literature & Language | Geography | Information Technology | French & English Language
+- Obtained the national grades in the following subjects: Math | Science | Romanian Literature & Language | Geography | Information Technology | French & English Language
 ----
 
 ## Work Experience
