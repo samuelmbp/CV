@@ -2,13 +2,9 @@
 
 [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
 
+After gaining customer service experience and conflict resolution skills while working in retail for five years, I have decided to change profession and pursue my career goal of becoming a Software Engineer. I will soon graduate from the [Makers Academy](https://makers.tech/), where I am studying a ‘Full-Stack Developer programme’. This has strengthened my expertise and foundations in computer programming. My ambition is to build a software application that is appealing and easy to use.  
 
-I am Full-Stack Developer about to graduate from [Makers Academy](https://makers.tech/) with strong foundations in computer programming.
-I am a hard working, well organized and extremely enthusiastic individual who is always willing to try new things when the opportunity arises. I work and communicate very well with others, always putting my full potential in everything I do.
-
-After working in retail for the past 5 years, I decided to challenge myself into the exciting world of Software Engineering. What fascinates me the most is the possibility to learn new things everyday and use technology at its highest potential to create something useful and efficient that could have an impact on people’s life.
-
-I am greatly motivated to join a company where I can use the skills that I have gained, with the determination to keep on improving and extending my competences in programming.
+I’m determined to continue extending my knowledge in software development and coding. I am hardworking, driven and possess excellent organisational skills, which makes me an ideal candidate that would flourish in this sector. I am an enthusiastic individual who enjoys both working in a team or independently to deliver successful projects and relish the opportunity to put my skills to use in a thriving business. 
 
 - - - - 
 
@@ -124,4 +120,5 @@ Technology | Reading | Traveling | Fitness | Photography | Snowboarding
 ## 📧 Contact Details
 
 > [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)<br/>
-> [Github](https://github.com/samuelmbp)
+> [Github](https://github.com/samuelmbp) </br>
+> **Email**: samuel.thembp@gmail.com
