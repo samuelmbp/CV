@@ -1,6 +1,6 @@
 # Samuel Raducan
 
-[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
+[Soft Skills](#soft-skills) | [Tech Skills](#💻-tech-skills) | [Projects](#👨‍💻-projects) | [Languages](#languages) | [Education](#🎓-education) | [Work Experience](#🏢-work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#📧-contact-details)
 
 After gaining customer service experience and conflict resolution skills while working in retail for five years, I have decided to change profession and pursue my career goal of becoming a Software Engineer. I will soon graduate from the [Makers Academy](https://makers.tech/), where I am studying a ‘Full-Stack Developer programme’. This has strengthened my expertise and foundations in computer programming. My ambition is to build a software application that is appealing and easy to use.  
 
