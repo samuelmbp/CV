@@ -24,6 +24,7 @@ I’m determined to continue extending my knowledge in software development and 
 
 - `.JavaScript` `.NodeJS` `.Express` `.React`  
 - `.Ruby` `.RSpec` `.Sinatra` `.Capybara`
+- `.Java`
 - `.Python` `.Django`
 - `.PostgreSql` `.MongoDB` `.Mongoose`  
 - `.HTML`  `.CSS` 
