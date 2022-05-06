@@ -122,4 +122,6 @@ Technology | Reading | Traveling | Fitness | Photography | Snowboarding
 
 ## Contact Details
 
-> [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)<br/> > [Github](https://github.com/samuelmbp) </br> > **Email**: samuel.thembp@gmail.com
+> [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)<br/> 
+> [Github](https://github.com/samuelmbp) </br> 
+> **Email**: samuel.thembp@gmail.com
