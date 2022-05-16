@@ -2,7 +2,7 @@
 
 [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
 
-After gaining customer service experience and conflict resolution skills while working in retail for five years, I have decided to change profession and pursue my career goal of becoming a Software Engineer. I will soon graduate from the [Makers Academy](https://makers.tech/), where I am studying a ‘Full-Stack Developer programme’. This has strengthened my expertise and foundations in computer programming. My ambition is to build a software application that is appealing and easy to use.  
+After gaining customer service experience and conflict resolution skills while working in retail for five years, I have decided to change profession and pursue my career goal of becoming a Software Engineer. I'm a recent [Makers Academy](https://makers.tech/) graduate, where I have studied a ‘Full-Stack Developer programme’. This has strengthened my expertise and foundations in computer programming. My ambition is to build a software application that is appealing and easy to use.  
 
 I’m determined to continue extending my knowledge in software development and coding. I am hardworking, driven and possess excellent organisational skills, which makes me an ideal candidate that would flourish in this sector. I am an enthusiastic individual who enjoys both working in a team or independently to deliver successful projects and relish the opportunity to put my skills to use in a thriving business. 
 
@@ -22,12 +22,11 @@ I’m determined to continue extending my knowledge in software development and 
 
 ## 💻 Tech Skills
 
-- `.JavaScript` `.NodeJS` `.Express` `.React`  
+- `.JavaScript` `.NodeJS/Express` `.React` `.HTML/CSS`
 - `.Ruby` `.RSpec` `.Sinatra` `.Capybara`
-- `.Java`
 - `.Python` `.Django`
+- `.Java`
 - `.PostgreSql` `.MongoDB` `.Mongoose`  
-- `.HTML`  `.CSS` 
 - `.Git`  `.Github`
 
 ## 👨‍💻 Projects
