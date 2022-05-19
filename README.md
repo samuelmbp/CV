@@ -22,7 +22,7 @@ I’m determined to continue extending my knowledge in software development and 
 
 ## 💻 Tech Skills
 
-`.JavaScript` `.NodeJS` `.Express` `.React` `.HTML` `.CSS`
+- `.JavaScript` `.NodeJS` `.Express` `.React` `.HTML` `.CSS`
 - `.Ruby` `.RSpec` `.Sinatra` `.Capybara`
 - `.Python` `.Django`
 - `.Java`
