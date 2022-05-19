@@ -22,7 +22,7 @@ I’m determined to continue extending my knowledge in software development and 
 
 ## 💻 Tech Skills
 
-- `.JavaScript` `.NodeJS/Express` `.React` `.HTML/CSS`
+`.JavaScript` `.NodeJS` `.Express` `.React` `.HTML` `.CSS`
 - `.Ruby` `.RSpec` `.Sinatra` `.Capybara`
 - `.Python` `.Django`
 - `.Java`
@@ -33,8 +33,10 @@ I’m determined to continue extending my knowledge in software development and 
 
 | Name                                                                    | Description                                                       | Technologies Used                                                                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Sportify](https://github.com/valentina-maggio/sportify) | A multi-page web application for newcomers and more experienced fitness users. Can choose existing  or customize their own workouts based on their strength level. | `.javascript` `.react` `.nodejs` `.express` `.mongodb`    `.mongoose` `.jest` `.react testing library`  `.html`  `.css`
 | [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social Media Website                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
 | [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travelers going away (clone airbnb) | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
+
 
 ## Languages
 
