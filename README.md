@@ -10,10 +10,9 @@ I’m determined to continue extending my knowledge in software development and 
 
 ## Soft Skills
 
-- Punctual & proactive
 - Excellent communicator
-- Adaptable & team player
-- Fast learner & curious
+- Adaptable and team player
+- Fast learner and curious
 - Methodical approach to work load
 - Problem solver with attention to detail
 
@@ -101,12 +100,12 @@ _Tourism & Hospitality_
 
 **Harrods Clinique(Estée Lauder) Department** (Dec 2017 — Jan 2022)
 
-_Stock Coordinator_
+_Stock Coordinator (Team Leader)_
 
-- Assisted the standard of merchandising to ensure appropriate presentation of stock
-- Supervised the maintenance of a warehouse/storeroom and ensured proper arrangement of stock
-- Assisted with the placing of orders and ensured requested goods were delivered on time
-- Checked stock had the correct tickets, supported with the preparation and execution of stock takes and ensured stockroom was neat, tidy and stock well managed and organized
+ - Assisted the standard of merchandising to ensure appropriate presentation of products 
+ - Communicated with the team to better organise stock management 
+ - Conducted a weekly review procedure to value the stock correctly
+ - Assisted with the placing of orders and ensured requested goods were delivered on time
 
 **Asda** (SEP 2016 — DEC 2017)
 
