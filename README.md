@@ -2,9 +2,9 @@
 
 [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Languages](#languages) | [Education](#education) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
 
-After gaining customer service experience and conflict resolution skills while working in retail for five years, I have decided to change profession and pursue my career goal of becoming a Software Engineer. I'm a recent [Makers Academy](https://makers.tech/) graduate, where I have studied a ‘Full-Stack Developer programme’. This has strengthened my expertise and foundations in computer programming. My ambition is to build a software application that is appealing and easy to use.  
+After gaining customer service experience and conflict resolution skills while working in retail for 4+ years, I have decided to change profession and pursue my career goal of becoming a Software Developer. I'm a recent [Makers Academy](https://makers.tech/) graduate, where I have studied a ‘Full-Stack Developer programme’. This has strengthened my expertise to adopt coding best-practices and develop strong foundations in computer programming. 
 
-I’m determined to continue extending my knowledge in software development and coding. I am hardworking, driven and possess excellent organisational skills, which makes me an ideal candidate that would flourish in this sector. I am an enthusiastic individual who enjoys both working in a team or independently to deliver successful projects and relish the opportunity to put my skills to use in a thriving business.
+I'm determined to continue extending my skills and knowledge in software development. I'm a methodical problem solver when working and collaborating with others and I have the drive to learn and test new concepts as the technology evolves fast and it brings meaningful changes in almost every major industry.
 
 ---
 
