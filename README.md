@@ -48,51 +48,37 @@ I'm determined to continue extending my skills and knowledge in software develop
 
 ---
 
-#### [Makers Academy](https://makers.tech/), London UK (Jan 2022 — Current)
+#### [Makers Academy](https://makers.tech/), London UK (Jan — May 2022)
 
-Highly selective 16-week intensive computer programming bootcamp.
+_Highly selective 16-week intensive computer programming bootcamp focused on_:
 
-- Focus on Test Driven Development with emphasis on pair programming and working in an agile way.
-- Object oriented programming & software design & XP
-- Experience with MVC framework patterns
-- Full-Stack web development.
+- Designing and building several applications with emphasis on self-led learning to become tech-agnostic and able to learn a new language in a very short time frame.
+- Test-Driven Development and collaboration in an agile way when working in teams with a focus on pair-programming, XP values, CI/CD, Git workflow, OOP &  MVC software design pattern
 
-#### [Code With Mosh](https://codewithmosh.com/)
 
-**_November - December 2021_**
+#### [Code With Mosh](https://codewithmosh.com/) | Certificate
 
-- **Django [Python]:**
+- **DJANGO [Python] & GIT** (_October - December 2021_) </br>
+  > Secure RESTful API’s, Caching,  Automated Tests & Data Structure  
 
-  - Fundamentals | [Overview](https://codewithmosh.com/p/the-ultimate-django-part1)
-  - Secure RESTful API's | [Overview](https://codewithmosh.com/p/the-ultimate-django-part2)
+- **HTML, CSS, JAVASCRIPT & NODEJS** (_April - September 2021_) </br>
+  > Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
 
-- **Git** | [Overview](https://codewithmosh.com/p/the-ultimate-git-course)
-
-**_April - October 2021_**
-
-- **HTML/CSS** | [Course Bundle Overview](https://codewithmosh.com/p/the-ultimate-html-css)
-- **Javascript**
-  - Fundamentals | [Overview](https://codewithmosh.com/p/javascript-basics-for-beginners)
-  - Object-oriented Programming | [Overview](https://codewithmosh.com/p/object-oriented-programming-in-javascript)
-
-**_January - March 2021_**
-
-- **Java** | [Course Bundle Overview](https://codewithmosh.com/p/the-ultimate-java-mastery-series)
-  - Part 1: Fundamentals
-  - Part 2: Object-oriented Programming
-  - Part 3: Advanced Topics
+- **JAVA** (_January - March 2021_) </br>
+  > Fundamentals, OOP Techniques, Advanced Concepts (Generics, Collections, Lambdas, Streams, Multithreading and Asynchronous Programming)
 
 #### [Coursera](https://www.coursera.org/) (October - November 2020)
 
-- **Python**
-  - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306)
-  - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
+- **PYTHON**
+  > Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
+  > Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
 
-#### Technical College (Romania) (SEP 2011 — JUL 2014)
+#### TECHNICAL COLLEGE —  ROMANIA  (SEP 2011 — JUL 2014)
 
 _Tourism & Hospitality_
 
-- Obtained the national grades in the following subjects: Math | Science | Romanian Literature & Language | Geography | Information Technology | French & English Language
+- Obtained the national grades in the following subjects: 
+  > Math | Science | Information Technology | Geography
 
 ---
 
@@ -126,5 +112,5 @@ Technology | Reading | Traveling | Fitness | Photography | Snowboarding
 ## Contact Details
 
 > [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)<br/> 
-> [Github](https://github.com/samuelmbp) </br> 
+> [Github](https://github.com/samuelmbp) </> 
 > **Email**: samuel.thembp@gmail.com
