@@ -36,15 +36,7 @@ I'm determined to continue extending my skills and knowledge in software develop
 | [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social Media Website                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
 | [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travelers going away (clone airbnb) | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
 
-
-## Languages
-
-- Romanian [native]
-- English [fluent]
-- Italian [fluent]
-- Spanish [basic]
-
-## Education
+## Education & Tech Experience
 
 ---
 
@@ -102,6 +94,14 @@ _Customer Service_
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
 
 ---
+
+
+## Languages
+
+- Romanian [native]
+- English [fluent]
+- Italian [fluent]
+- Spanish [basic]
 
 ## Interests & Activities
 
