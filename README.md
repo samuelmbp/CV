@@ -19,13 +19,13 @@ I'm determined to continue extending my programming knowledge as a software deve
 
 ## **Soft Skills**
 
-### _**Communication & Methodical Approach To Work-Load**_
+#### **Communication & Methodical Approach To Work-Load**
 
 My previous role as a Stock Coordinator often included planning ahead; communicating with the team to better cooperate on the stock management; conducting a detailed review procedures to value the stock correctly and therefore being able to make better operational decisions for the profitability of the business. 
 
 Makers Academy strongly embeds pair programming into its bootcamp, so working with people from different backgrounds helped me develop the ability to solve problems collaboratively and further enhanced my communication style. When working within a group or while pair programming, I can effectively articulate project needs and resolve challenges that arise.
 
-### _**Collaboration & Team Player**_
+#### **Collaboration & Team Player**
 
 I am an adaptable and dedicated team player, which has been evident throughout my professional career and during my time at Makers Academy. I have always thrived within a team environment, where collaboration and strong values are part of my work ethics and vital to ensuring a high performing organisation.
 In fact, during the four years of my employment, I helped grow the efficiency of the stock management by 35%.
@@ -35,7 +35,7 @@ Throughout the two-week production of the application, the team and I provided b
 
 I always seek to develop strong relationships and aspire to display positivity amongst colleagues, and strongly value the key fundamentals of teamwork. 
 
-### _**Organised & Fast-Learner**_
+#### **Organised & Fast-Learner**
 
 I always show dedication and interest in a new type of employment as I'm very curious, so I generally pick up things quite quickly.  During my time in retail, when I was given the management of a whole stock department, I learnt from the experience of my colleagues and then took on more responsibilities in a short time frame.
 What helps me in this regards is having an organised approach to my workload to ensure that deadlines and targets are met, and that my time is used efficiently by prioritising tasks and making a plan of action, for example by creating a daily schedule to follow and by often bringing my work ahead.
@@ -52,7 +52,7 @@ My experience with programming has stimulated even further my ability to take on
 During the four month-intense bootcamp I picked up new languages, acquired new methods of programming and learnt to work on various projects.  -->
 
 
-## 💻 **Tech Skills**
+## 💻 Tech Skills
 
 - `.JavaScript` `.NodeJS` `.Express` `.React` `.HTML` `.CSS`
 - `.Ruby` `.RSpec` `.Sinatra` `.Capybara`
@@ -61,18 +61,16 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 - `.PostgreSql` `.MongoDB` `.Mongoose`  
 - `.Git`  `.Github`
 
-## **Projects**
+## Projects
 
 | Name                                                                    | Description                                                       | Technologies Used                                                                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | [Sportify](https://github.com/valentina-maggio/sportify) | A multi-page web application for newcomers and more experienced fitness users. Can choose existing  or customize their own workouts based on their strength level. | `.javascript` `.react` `.nodejs` `.express` `.mongodb`    `.mongoose` `.jest` `.react testing library`  `.html`  `.css`
 | [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social Media Website                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
 | [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travelers going away (clone airbnb) | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
+| [E-commerce Api](https://github.com/samuelmbp/ecommerce-api)                    | RESTful API for an e-commerce store. | `.python` `.django` `.django-rest-framework`, `.mysql`            |
 
-# TODO: ADD:
-- E-commerce app.
-- DSA?
-## **Education & Tech Experience**
+## Education & Tech Experience
 
 ---
 
@@ -112,7 +110,7 @@ _Tourism & Hospitality_
 
 ---
 
-## **Work Experience**
+## Work Experience
 
 **Harrods Clinique(Estée Lauder) Department** (Dec 2017 — Jan 2022)
 
@@ -134,20 +132,19 @@ _Customer Service_
 ---
 
 
-## **Languages**
+## Languages
 
 - Romanian [native]
 - English [fluent]
 - Italian [fluent]
 - Spanish [basic]
 
-## **Interests & Activities**
-
-Technology | Reading | Voluntary Work |Traveling | Fitness | Photography | Snowboarding
+## Interests & Activities
+Technology | Reading | Voluntary Work | Fitness & Snowboarding | Travelling & Photography
 
 ---
 
-## **Contact Details**
+## Contact Details
 
 > [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)<br/> 
 > [Github](https://github.com/samuelmbp) </br> 
