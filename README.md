@@ -3,7 +3,7 @@
 [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Languages](#languages) | [Education](#education) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
 
 Software Developer – a Makers Academy graduate with a background in stock management and customer service,
-ready to step into the tech world. Able to work well individually but especially on team projects, with the aim of delivering clean and high-quality code. Constantly driven to keep learning and growing both personally and professionally and always ready to meet challenges and new opportunities. Thrilled to work for a company with a stimulating environment, and growth opportunities while contributing with my skills and potential to the fullest.
+ready to step into the tech world. Able to work well individually but especially on team projects, with the aim of delivering clean and high-quality code. Constantly driven to keep learning and growing both personally and professionally and always ready to meet challenges and new opportunities. Thrilled to work for a company with a stimulating environment, diverse and inclusive with a collaborative spirit and growth opportunities, while contributing with my skills and potential to the fullest
 <!-- With a retail and customer support background, problem-solving and high quality service delivery have been at the forefront of my professional life. Meanwhile my curiosity in technology introduced me to the world of coding so I decided to challenge myself and pursue a new career goal as software developer to seek a more fulfilling and creative professional direction and make real-world impact with my skills through tech.
 
  My career-changing journey started by teaching myself for a while until I came across [Makers Academy Bootcamp](https://makers.tech/), where I have adopted coding best-practices and developed an even stronger foundation of programming concepts. I operate well individually, though I thrive in a collaborative environment as part of a productive team to produce high-quality-code.
@@ -56,7 +56,7 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 
 ## 💻 Tech Skills
 
-- `.JavaScript` `.NodeJS` `.Express` `.React` `.HTML` `.CSS`
+- `.JavaScript` `.NodeJS` `.Express` `.React` `.Jest` `.HTML` `.CSS` 
 - `.Ruby` `.RSpec` `.Sinatra` `.Capybara`
 - `.Python` `.Django`
 - `.Java`
@@ -67,10 +67,11 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 
 | Name                                                                    | Description                                                       | Technologies Used                                                                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Sportify](https://github.com/valentina-maggio/sportify) | A multi-page web application for newcomers and more experienced fitness users. Can choose existing  or customize their own workouts based on their strength level. | `.javascript` `.react` `.nodejs` `.express` `.mongodb`    `.mongoose` `.jest` `.react testing library`  `.html`  `.css`
-| [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social Media Website                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
-| [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travelers going away (clone airbnb) | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
+| [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)                    | Currently working on DSA to enhance my problem-solving thinking with the aim to write simple but clean and quality code | `.javascript` `.jest`             |
 | [E-commerce Api](https://github.com/samuelmbp/ecommerce-api)                    | RESTful API for an e-commerce store. | `.python` `.django` `.django-rest-framework`, `.mysql`            |
+| [Sportify](https://github.com/samuelmbp/sportify) | A multi-page web application for newcomers and more experienced fitness users. Can choose existing  or customize their own workouts based on their strength level | `.javascript` `.react` `.nodejs` `.express` `.mongodb`    `.mongoose` `.jest` `.react testing library`  `.html`  `.css`
+| [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social media website that users can interact with each other. This can be done by signing up, personalizing their profile page, creating posts, liking and commenting on other peoples posts.                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
+| [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travelers going away. The platform allows hosts to list the properties they would like to rent out to guests, and for guests to pick their preferred choice of rental. In the same time it allows hosts to manage their diary, approve specific booking requests and more.  | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
 
 ## Education & Tech Experience
 
@@ -78,14 +79,14 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 
 #### [Makers Academy](https://makers.tech/), London UK (Jan — May 2022)
 
-_Highly selective 16-week intensive computer programming bootcamp focused on_:
+_Highly selective 16-week intensive software development bootcamp_
 
-- Designing and building applications with emphasis on self-led learning to become tech-agnostic and able to learn a new programming language in a short time frame.
-- Using agile methodologies to work effectively in a team, using pair programming, XP values, daily stand-ups and sprint planning.
-- Identifying project requirements, creating user stories, defining MVP's features and breaking features into smaller tasks to easily accomplish them.
-- Giving and receiving feedback using reviews and open/respectful communication.
-- Collaborating with the other team members using GitHub as version control tool and CI/CD to reduce integration risk.
-- Coding following principles such as TDD, SOLID, OOP, and MVC design patterns to create clear, simple and well-tested code.
+#### Responsibilities:
+- Coded with high attention to detail by following principles such as TDD, SOLID, OOP, and MVC design patterns to create clear, simple code and well-tested applications
+- Collaborated and communicated effectively with the team using agile methodologies such as pair programming, debugging, XP Values, daily stand-ups, retros, open and constructive feedback, and sprint planning.
+- Managed group projects adopting problem-solving skills and using GitHub as a version control tool as well as CI/CD to reduce integration risk
+- Implemented a methodical approach to the workload to identify project requirements, create user stories, define MVP's features, and adopted strategies of time management to keep projects on schedule
+- Kept a good self-motivation throughout challenges and showed adaptability to overcome obstacles
 
 #### [Code With Mosh](https://codewithmosh.com/)
 - **DJANGO [Python] & GIT** (_October - December 2021_) </br>
