@@ -89,14 +89,14 @@ _Highly selective 16-week intensive software development bootcamp_
 - Kept a good self-motivation throughout challenges and showed adaptability to overcome obstacles
 
 #### [Code With Mosh](https://codewithmosh.com/)
-- **DJANGO [Python] & GIT** (_October - December 2021_) </br>
+- **DJANGO [Python] & GIT** (October - December 2021) </br>
   > Secure RESTful API’s, Caching,  Automated Tests & Data Structure  
 
-- **HTML, CSS, JAVASCRIPT & NODEJS** (_April - September 2021_) </br>
+- **HTML, CSS, JAVASCRIPT & NODEJS** (April - September 2021) </br>
   > Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
 
-- **JAVA** (_January - March 2021_) </br>
-  > Fundamentals, OOP Techniques, Advanced Concepts (Generics, Collections, Lambdas, Streams, Multithreading and Asynchronous Programming)
+- **JAVA** (January - March 2021) </br>
+  > Fundamentals, OOP Techniques, Advanced Concepts 
 
 #### [Coursera](https://www.coursera.org/) (October - November 2020)
 
