@@ -91,23 +91,23 @@ _Full-time software development bootcamp_
   > Secure RESTful API’s, Caching,  Automated Tests & Data Structure  
 
 - **HTML, CSS, JAVASCRIPT & NODEJS** (April - September 2021) </br>
-  > Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
+  - Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
 
 - **JAVA** (January - March 2021) </br>
-  > Fundamentals, OOP Techniques, Advanced Concepts 
+  - Fundamentals, OOP Techniques, Advanced Concepts 
 
 #### [Coursera](https://www.coursera.org/) (October - November 2020)
 
 - **PYTHON**
-  > Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
-  > Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
+  - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
+  - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
 
 #### **Technical College**  (SEP 2010 — JUL 2014)
 
 _Tourism & Hospitality Management_
 
 - Obtained the national grades in the following subjects: 
-  > English | Maths | Science | Information Technology | History & Geography
+  - English | Maths | Science | Information Technology | History & Geography
 
 ---
 
