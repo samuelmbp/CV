@@ -17,7 +17,6 @@ I began my career-changing journey by self-teaching myself how to code and then 
 I'm determined to continue extending my programming knowledge as a software developer. I'm a methodical problem solver when working and collaborating with others and I have the drive to learn and test new concepts as the technology evolves fast and it brings meaningful changes in almost every major industry. -->
 
 ## Projects
-----
 
 | Name                                                                    | Description                                                       | Technologies Used                                                                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -29,7 +28,6 @@ I'm determined to continue extending my programming knowledge as a software deve
 
 
 ## Soft Skills
-----
 
 #### **Communication & Methodical Approach To Work-Load**
 
@@ -64,7 +62,6 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 
 
 ## 💻 Tech Skills
-----
 
 - `JavaScript` | `NodeJS` | `Express` | `React` | `Jest` | `HTML` | `CSS` 
 - `Ruby` | `RSpec` | `Sinatra` | `Capybara`
@@ -75,7 +72,6 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 
 
 ## Education & Tech Experience
------
 
 #### [Makers Academy](https://makers.tech/), London UK (Jan — May 2022)
 
@@ -111,7 +107,6 @@ _Tourism & Hospitality Management_
   - English | Maths | Science | Information Technology | History & Geography
 
 ## Work Experience
-----
 
 **Harrods Clinique(Estée Lauder) Department** (Dec 2017 — Jan 2022)
 
@@ -131,13 +126,12 @@ _Customer Service_
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
 
 ## Interests & Activities
------
+
 - 💻 **Technology**: Currently working on data structure & algorithms exercises and going through the Java module provided by Makers Academy on GitHub
 - 📚 **Reading & Voluntary Work**: Currently, reading "Clean Code" by Robert C. Martin aka Uncle Bob
 - 🏋🏻 **Fitness & Snowboarding**: Training 3 times a week, and enjoying the mountains at least once a year
 - ✈️ **Travelling & Languages**: Romanian(native), English(fluent), Italian(fluent), Spanish(basic)
 
 ## Contact Details
-----
 
 > [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)<br/> 
