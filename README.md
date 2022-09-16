@@ -1,6 +1,6 @@
 # Samuel Raducan
 
-[Projects](#projects) | [Soft Skills](#soft-skills) | [Tech Skills](#💻-tech-skills) | [Education & Tech Experience](#education--tech-experience) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
+[Projects](#projects) | [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Education & Tech Experience](#education--tech-experience) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
 
 Software Developer — a Makers Academy graduate with a background in stock management and customer service, ready to step into the tech world. Able to work well individually but especially on team projects, with the aim of delivering clean and high-quality code. Constantly driven to keep learning and growing both personally and professionally and always ready to meet challenges and new opportunities. Thrilled to work for a company with a diverse, inclusive and stimulating environment, with a collaborative spirit and growth opportunities, and looking forward to bringing my skills to the table.
 <!-- With a retail and customer support background, problem-solving and high quality service delivery have been at the forefront of my professional life. Meanwhile my curiosity in technology introduced me to the world of coding so I decided to challenge myself and pursue a new career goal as software developer to seek a more fulfilling and creative professional direction and make real-world impact with my skills through tech.
@@ -61,7 +61,7 @@ My experience with programming has stimulated even further my ability to take on
 During the four month-intense bootcamp I picked up new languages, acquired new methods of programming and learnt to work on various projects.  -->
 
 
-## 💻 Tech Skills
+## Tech Skills
 
 - `JavaScript` | `NodeJS` | `Express` | `React` | `Jest` | `HTML` | `CSS` 
 - `Ruby` | `RSpec` | `Sinatra` | `Capybara`
