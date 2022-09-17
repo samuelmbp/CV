@@ -1,7 +1,7 @@
 # Samuel Raducan
 📧 samuel.thembp@gmail.com
 
-[Projects](#projects) | [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Education & Tech Experience](#education--tech-experience) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
+[Projects](#projects) | [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Education & Tech Experience](#education--tech-experience) | [Work Experience](#work-experience) | [Certificates](#certificates) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
 
 Software Developer — a Makers Academy graduate with a background in stock management and customer service, ready to step into the tech world. Able to work well individually but especially on team projects, with the aim of delivering clean and high-quality code. Constantly driven to keep learning and growing both personally and professionally and always ready to meet challenges and new opportunities. Thrilled to work for a company with a diverse, inclusive and stimulating environment, with a collaborative spirit and growth opportunities, and looking forward to bringing my skills to the table.
 <!-- With a retail and customer support background, problem-solving and high quality service delivery have been at the forefront of my professional life. Meanwhile my curiosity in technology introduced me to the world of coding so I decided to challenge myself and pursue a new career goal as software developer to seek a more fulfilling and creative professional direction and make real-world impact with my skills through tech.
@@ -21,22 +21,22 @@ I'm determined to continue extending my programming knowledge as a software deve
 
 | Name                                                                    | Description                                                       | Technologies Used                                                                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)                    | Currently working on DSA to enhance my problem-solving thinking with the aim to write simple, clean and quality code | `.javascript` `.jest`             |
-| [E-commerce Api](https://github.com/samuelmbp/ecommerce-api)                    | RESTful API for an e-commerce store. | `.python` `.django` `.django-rest-framework`, `.mysql`            |
+| [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)                    | Currently practicing Data Structure & Algorithms problems to enhance my problem-solving thinking with the aim to write simple, clean and high-quality code | `.javascript` `.jest`             |
+| [E-commerce Api](https://github.com/samuelmbp/ecommerce-api)                    | Practice with Django REST framework by building a RESTful API for an e-commerce store | `.python` `.django` `.django-rest-framework`, `.mysql`            |
 | [Sportify](https://github.com/samuelmbp/sportify) | A multi-page web application for newcomers and more experienced fitness users. Can choose existing or customize their own workouts based on their strength level | `.javascript` `.react` `.nodejs` `.express` `.mongodb`    `.mongoose` `.jest` `.react testing library`  `.html`  `.css`
-| [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social media website that users can interact with each other. This can be done by signing up, personalizing their profile page, creating posts, liking and commenting on other peoples posts.                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
-| [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travellers going away. The platform allows hosts to list the properties they would like to rent out to guests, and for guests to pick their preferred choice of rental. In the same time it allows hosts to manage their diary, approve specific booking requests and more.  | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
+| [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social media website that users can interact with each other. This can be done by signing up, personalizing their profile page, creating posts, liking and commenting on other peoples posts                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
+| [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travellers going away. The platform allows hosts to list the properties they would like to rent out to guests, and for guests to pick their preferred choice of rental. In the same time it allows hosts to manage their diary, approve specific booking requests and more  | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
 
 
 ## Soft Skills
 
-#### **Communication | Methodical Approach To Work-Load**
+#### **Communicator | Methodical Approach To Work-Load**
 
 My previous role as a Stock Coordinator often included planning ahead; communicating with the team to better cooperate on the stock management; conducting detailed review procedures to value the stock correctly and therefore being able to make better operational decisions for the profitability of the business. 
 
 Makers Academy strongly embeds pair programming into its bootcamp, so working with people from different backgrounds helped me develop the ability to solve problems collaboratively and further enhanced my communication style. When working within a group or while pair programming, I can effectively articulate project needs and resolve challenges that arise.
 
-#### **Collaboration | Teamwork**
+#### **Collaborative Approach | Teamwork**
 
 I am an adaptable and dedicated team player, which has been evident throughout my professional career and during my time at Makers Academy. I have always thrived within a team environment, where collaboration and strong values are part of my work ethics and vital to ensuring a high performing organisation.
 In fact, during the four years of my employment, I helped grow the efficiency of the stock management by 35%.
@@ -66,7 +66,7 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 
 - `JavaScript` `NodeJS` `Express` `React` `Jest` `HTML` `CSS` 
 - `Ruby` `RSpec` `Sinatra` `Capybara`
-- `Python` `Django`
+- `Python` `Django` `Django-Rest-Framework`
 - `Java`
 - `PostgreSql` `MongoDB` `Mongoose`  
 - `Git` `Github`
@@ -83,22 +83,6 @@ _Full-time software development bootcamp_
 - Collaborated and communicated effectively with the team using agile principles such as pair programming, XP values, code reviewing, daily stand-ups, retros, CI/CD, Git workflow and sprint planning.
 - Implemented a methodical approach to the workload to identify project requirements, create user stories, define MVP features, and adopted strategies of time management to keep projects on schedule
 - Facilitated knowledge sharing 
-
-#### [Code With Mosh](https://codewithmosh.com/)
-- **DJANGO [Python] & GIT** (October - December 2021) </br>
-  - Secure RESTful API’s, Caching,  Automated Tests & Data Structure  
-
-- **HTML, CSS, JAVASCRIPT & NODEJS** (April - September 2021) </br>
-  - Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
-
-- **JAVA** (January - March 2021) </br>
-  - Fundamentals, OOP Techniques, Advanced Concepts 
-
-#### [Coursera](https://www.coursera.org/) (October - November 2020)
-
-- **PYTHON**
-  - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
-  - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
 
 #### **Technical College / Romania**  (SEP 2010 — JUL 2014)
 
@@ -126,10 +110,30 @@ _Customer Service_
 - Managed and organized a team of four to maintain the standard of the workload
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
 
+
+## Certificates
+#### [Code With Mosh](https://codewithmosh.com/)
+- **GIT & DJANGO** (October - December 2021) </br>
+  - Git fundamentals and advanced commands  
+  - Secure RESTful API’s with Django & Django-Rest-Framework  
+
+- **HTML, CSS, JAVASCRIPT & NODEJS** (April - September 2021) </br>
+  - Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
+
+- **JAVA** (January - March 2021) </br>
+  - Fundamentals, OOP Techniques, Advanced Concepts 
+
+#### [Coursera](https://www.coursera.org/) (October - November 2020)
+
+- **PYTHON**
+  - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
+  - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
+
+
 ## Interests & Activities
 
-- 💻 **Technology**: Currently working on data structure & algorithms exercises and going through the Java module provided by Makers Academy on GitHub
-- 📚 **Reading & Voluntary Work**: Currently, reading "Clean Code" by Robert C. Martin aka Uncle Bob
+- 💻 **Technology**: Currently practicing [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) problems and going through the Java module provided by Makers Academy on GitHub
+- 📚 **Reading & Voluntary Work**: Currently reading [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) by Robert C. Martin aka Uncle Bob
 - 🏋🏻 **Fitness & Snowboarding**: Training 3 times a week, and enjoying the mountains at least once a year
 - ✈️ **Travelling & Languages**: Romanian(native), English(fluent), Italian(fluent), Spanish(basic)
 
