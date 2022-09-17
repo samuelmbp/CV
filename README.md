@@ -1,4 +1,5 @@
 # Samuel Raducan
+📧 samuel.thembp@gmail.com
 
 [Projects](#projects) | [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Education & Tech Experience](#education--tech-experience) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | [Contact Details](#contact-details)
 
@@ -29,27 +30,27 @@ I'm determined to continue extending my programming knowledge as a software deve
 
 ## Soft Skills
 
-#### **Communication & Methodical Approach To Work-Load**
+#### **Communication | Methodical Approach To Work-Load**
 
 My previous role as a Stock Coordinator often included planning ahead; communicating with the team to better cooperate on the stock management; conducting detailed review procedures to value the stock correctly and therefore being able to make better operational decisions for the profitability of the business. 
 
 Makers Academy strongly embeds pair programming into its bootcamp, so working with people from different backgrounds helped me develop the ability to solve problems collaboratively and further enhanced my communication style. When working within a group or while pair programming, I can effectively articulate project needs and resolve challenges that arise.
 
-#### **Collaboration & Team Player**
+#### **Collaboration | Teamwork**
 
 I am an adaptable and dedicated team player, which has been evident throughout my professional career and during my time at Makers Academy. I have always thrived within a team environment, where collaboration and strong values are part of my work ethics and vital to ensuring a high performing organisation.
 In fact, during the four years of my employment, I helped grow the efficiency of the stock management by 35%.
 
-During my time at Makers, I have continuously demonstrated an effective collaborative mindset within group environments to create high quality projects. One notable mention is the ‘Makers BnB’ which is a short-term rental website for travellers built by me and my team. Throughout the two-week production of the application, the team and I provided both technical and EQ support. We ran two daily stand-ups and a retrospective catchup at the end of each day to manage our workflow and ensured that everyone felt heard.
+During my time at Makers, I have continuously demonstrated an effective collaborative mindset within group environments to create high quality projects. One notable mention is the [Makers bnb](https://github.com/samuelmbp/makersbnb) which is a short-term rental website for travellers built by me and my team. Throughout the two-week production of the application, the team and I provided both technical and EQ support. We ran two daily stand-ups and a retrospective catchup at the end of each day to manage our workflow and ensured that everyone felt heard.
 
 I always seek to develop strong relationships and aspire to display positivity amongst colleagues, and strongly value the key fundamentals of teamwork. 
 
-#### **Organised & Fast-Learner**
+#### **Organised | Fast Learner | Time Management**
 
 I always show dedication and interest in a new type of employment as I'm very curious, so I generally pick up things quite quickly. During my time in retail, when I was given the management of a whole stock department, I learnt from the experience of my colleagues and then took on more responsibilities in a short time frame.
 What helps me in this regard is having an organised approach to my workload to ensure that deadlines and targets are met, and that my time is used efficiently; for example by prioritising tasks and making a plan of action, by creating a daily schedule to follow and by often bringing my work ahead.
  
-At Makers, time management was crucial. Each weekend I was given an individual project to work on and to be presented at the beginning of the following week, so I was ensuring to split it in smaller tasks and used different tools to enhance my efficiency such as the pomodoro technique, trello board for managing the tickets, miro and diagrams.net for note-taking and process modeling.
+At Makers, time management was crucial. Each weekend I was given an individual project to work on and to be presented at the beginning of the following week, so I was ensuring to split it in smaller tasks. For example, I used different tools to enhance my efficiency such as the pomodoro technique, trello board for managing the tickets, miro and diagrams.net for note-taking and process modeling.
 My experience with programming has stimulated even further my ability to take on new technical skills very quickly, both during the bootcamp and during the time I set aside each day for self-learning and improving.
 <!-- 
 Even during my time at Makers, the workload was often intense so my organisational skills and time management have been further established. Each weekend I was given an individual project to work on and to be presented at the beginning of the following week, so I was ensuring to split it in smaller tasks and used different tools to enhance my efficiency such as the pomodoro technique at each stage. Particularly in my last two group projects, I used a number of organisational tools to prioritise agile development. This included Trello- a Kanban project board for managing tickets and observing workflow, Google drive- to store our resources and documentation of our daily stand-ups and retros, and GitHub issues- to focus on important tasks and manage workflow simultaneously. Additionally, I've used a variety of tools to assist with my note-taking and process modelling, such as Miro and Diagrams.net. -->
@@ -63,13 +64,13 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 
 ## Tech Skills
 
-- `JavaScript` | `NodeJS` | `Express` | `React` | `Jest` | `HTML` | `CSS` 
-- `Ruby` | `RSpec` | `Sinatra` | `Capybara`
-- `Python` | `Django`
+- `JavaScript` `NodeJS` `Express` `React` `Jest` `HTML` `CSS` 
+- `Ruby` `RSpec` `Sinatra` `Capybara`
+- `Python` `Django`
 - `Java`
-- `PostgreSql` | `MongoDB` | `Mongoose`  
-- `Git` | `Github`
-
+- `PostgreSql` `MongoDB` `Mongoose`  
+- `Git` `Github`
+ 
 
 ## Education & Tech Experience
 
