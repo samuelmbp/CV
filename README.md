@@ -112,20 +112,20 @@ _Customer Service_
 
 
 ## Certificates
-#### [Code With Mosh](https://codewithmosh.com/)
-- **GIT & DJANGO** (October - December 2021) </br>
+#### **[Code With Mosh](https://codewithmosh.com/)**
+- [Git](https://codewithmosh.com/p/the-ultimate-git-course) & [Django](https://codewithmosh.com/p/the-ultimate-django-series) (October - December 2021) </br>
   - Git fundamentals and advanced commands  
   - Secure RESTful API’s with Django & Django-Rest-Framework  
 
-- **HTML, CSS, JAVASCRIPT & NODEJS** (April - September 2021) </br>
+- [HTML - CSS](https://codewithmosh.com/p/the-ultimate-html-css), [JavaScript](https://codewithmosh.com/p/javascript-basics-for-beginners) & [NodeJs](https://codewithmosh.com/p/the-complete-node-js-course) (April - September 2021) </br>
   - Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
 
-- **JAVA** (January - March 2021) </br>
+- [Java](https://codewithmosh.com/p/the-ultimate-java-mastery-series) (January - March 2021) </br>
   - Fundamentals, OOP Techniques, Advanced Concepts 
 
-#### [Coursera](https://www.coursera.org/) (October - November 2020)
+#### **[Coursera](https://www.coursera.org/)** (October - November 2020)
 
-- **PYTHON**
+- [Python](https://www.coursera.org/specializations/python)
   - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
   - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
 
@@ -134,7 +134,7 @@ _Customer Service_
 
 - 💻 **Technology**: Currently practicing [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) problems and going through the Java module provided by Makers Academy on GitHub
 - 📚 **Reading & Voluntary Work**: Currently reading [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) by Robert C. Martin aka Uncle Bob
-- 🏋🏻 **Fitness & Snowboarding**: Training 3 times a week, and enjoying the mountains at least once a year
+- 🏋🏻 **Fitness & Snowboarding**: Exercising at least three times a week, and enjoying the mountains at least once a year
 - ✈️ **Travelling & Languages**: Romanian(native), English(fluent), Italian(fluent), Spanish(basic)
 
 ## Contact Details
