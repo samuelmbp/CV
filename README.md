@@ -11,7 +11,7 @@ Software Developer — a [Makers Academy](https://makers.tech/) graduate with a 
 Switching to the career of software engineering has been the most exciting and resolute decision I have made on my professional side. I am attracted by the software industry because is constantly evolving and offers so many opportunities to contribute to, so I’m continuously motivated to learn and driven to grow, and always ready to meet challenges and new opportunities to further develop both personally and professionally.
 
 I am able to work well individually, though I thrive in a collaborative environment as part of a productive team with the aim of delivering simple solutions, clean and high-quality-code.<br>
-Thrilled to work for a company with a diverse and stimulating environment, with a collaborative spirit and growth opportunities, and I look forward to bringing my skills to the table.
+Thrilled to work for a company with an inclusive and stimulating environment, with a collaborative spirit and growth opportunities, and I look forward to bringing my skills to the table.
 
  <!-- by building real solutions to real problems, learning new technologies and expanding my current knowledge. -->
 
