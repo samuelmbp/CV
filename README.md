@@ -132,10 +132,17 @@ During the four month-intense bootcamp I picked up new languages, acquired new m
 _Full-time software development bootcamp_
 
 #### Responsibilities:
-- Coded with high attention to detail by following principles such as Test Driven Development, Object-Oriented Programming, Model View Controller design patterns, and SOLID principles to create simple, clear and well-tested code
+<!-- - Coded with high attention to detail by following principles such as Test Driven Development, Object-Oriented Programming, Model View Controller design patterns, and SOLID principles to create simple, clear and well-tested code
 - Collaborated and communicated effectively with the team using agile principles such as pair programming, XP values, code reviewing, daily stand-ups, retros, CI/CD, Git workflow and sprint planning.
 - Implemented a methodical approach to the workload to identify project requirements, create user stories, define MVP features, and adopted strategies of time management to keep projects on schedule
-- Facilitated knowledge sharing 
+- Facilitated knowledge sharing  -->
+- Coded with high attention to detail by following principles such as TDD, SOLID, OOP, and MVC design patterns to create clear and high-quality code
+- Collaborated and communicated effectively with the team using agile methodologies when working in teams of 4-6 people to produce full-stack web applications
+- Took ownership of my own learning and time management to fully cover a vast material during the 16 weeks of Bootcamp. 
+- Assisted fellow team members during stand-ups and pair programming
+- Demonstrated leadership skills during daily stand-ups when working on group projects
+- Received and gave feedback using code reviews during group projects and pair programming
+- Solved and researched a variety of problems during weekly projects and weekend challenges.
 
 #### **Technical College / Romania**  (SEP 2010 — JUL 2014)
 
