@@ -191,8 +191,8 @@ _Customer Service_
 
 ## Interests & Activities
 
-- 💻 **Technology**: Currently practicing [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) problems and working through the Java module provided by Makers Academy
+- 💻 **Technology**: Currently working on [Spring Boot Registration System](https://github.com/samuelmbp/java-springboot-registration-system) and practice [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) problems
 - 📚 **Reading**: Currently reading [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) by Robert C. Martin aka Uncle Bob
 - 💼 **Voluntary Work**: Weekly engaged in helping the community
-- 🏋🏻 **Fitness & Snowboarding**: Exercising at least three times a week, and enjoying the mountains at least once a year
+- 🏋🏻 **Fitness & Snowboarding**
 - ✈️ **Travelling & Languages**: Romanian(native), English(fluent), Italian(fluent), Spanish(basic)
