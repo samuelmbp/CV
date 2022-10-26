@@ -1,53 +1,21 @@
 # Samuel Raducan
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Interests & Activities](#interests--activities) | 
-[LinkedIn](https://www.linkedin.com/in/samuel-raducan)
+<div align="center">
 
+[PROJECTS](#tech-projects) | [SKILLS](#tech-skills) | [TECHNICAL EDUCATION](#technical-education) | [WORK EXPERIENCE](#work-experience) |  
+[EDUCATION](#education) | [INTERESTS](#interests--activities) | [LINKEDIN](https://www.linkedin.com/in/samuel-raducan)
+ 
+ <div align="left">
 
-<!-- Software Developer — a Makers Academy graduate with a background in stock management and customer service, ready to step into the tech world. Able to work well individually but especially on team projects, with the aim of delivering clean and high-quality code. Constantly driven to keep learning and growing both personally and professionally and always ready to meet challenges and new opportunities. Thrilled to work for a company with a diverse, inclusive and stimulating environment, with a collaborative spirit and growth opportunities, and looking forward to bringing my skills to the table. -->
+Hi, I'm Samuel! 
+  
+I've wanted to work in tech ever since I discovered gaming growing up in Romania. I moved to the UK when I was 19 to follow my ambition to study software engineering. After teaching myself the fundamentals of JavaScript, Java and Python it was time for a more structured approach and I joined [Makers Academy](https://makers.tech/). I thrive in people-oriented environments and have funded my journey with a career in stock operations, management and high-end retail which has given me the confidence and skill to build rapport quickly, lead and collaborate in diverse environments while retaining a client-centric mindset.
 
-Software Developer — a [Makers Academy](https://makers.tech/) graduate with a background in stock management and customer service, ready to step into the tech world. <br>
+I’m currently learning Java and Spring Boot by building a [Spring Boot Registration System](https://github.com/samuelmbp/java-springboot-registration-system) but I'm a operations-oriented problem solver at heart, excited to collaborate and grow in any challenging technical environment.
 
-Switching to the career of software engineering has been the most exciting and resolute decision I have made on my professional side. I am attracted by the software industry because is constantly evolving and offers so many opportunities to contribute to, so I’m continuously motivated to learn and driven to grow, and always ready to meet challenges and new opportunities to further develop both personally and professionally.
+## Technical Experience
 
-I am able to work well individually, though I thrive in a collaborative environment as part of a productive team with the aim of delivering simple solutions, clean and high-quality-code.<br>
-Thrilled to work for a company with an inclusive and stimulating environment, with a collaborative spirit and growth opportunities, and I look forward to bringing my skills to the table.
-
- <!-- by building real solutions to real problems, learning new technologies and expanding my current knowledge. -->
-
-<!-- The software industry is constantly evolving and there is so much to learn and contribute to, so I’m constantly motivated to continuously learn and driven to grow, and always ready to meet challenges and new opportunities to further develop personally and professionally. -->
-
-<!-- With a retail and customer support background, problem-solving and high quality service delivery have been at the forefront of my professional life. Meanwhile my curiosity in technology introduced me to the world of coding so I decided to challenge myself and pursue a new career goal as software developer to seek a more fulfilling and creative professional direction and make real-world impact with my skills through tech.
-
- My career-changing journey started by teaching myself for a while until I came across [Makers Academy Bootcamp](https://makers.tech/), where I have adopted coding best-practices and developed an even stronger foundation of programming concepts. I operate well individually, though I thrive in a collaborative environment as part of a productive team to produce high-quality-code.
-
- I'm constantly driven to keep learning and growing both personally and professionally and always ready to meet challenges and new opportunities. I am thrilled by the opportunity of working in a company with a supportive and stimulating environment where I can bring my dedication and my skills to make my part in an ever evolving tech world in need of immediate and constant solutions.  -->
-
-<!-- Stepping into the career of software engineering has been the most exciting and resolute decision I have made on my professional side, I’m constantly motivated to learn more and driven to grow both personally and professionally and always ready to meet challenges and new opportunities. -->
-
-
-<!-- **What excites me about starting a career in tech** -->
-
-<!-- _Constant learning_: As a curious and determined person, there's nothing that excites me more than a job that constantly has me learning to keep up with the latest technologies. -->
-
-<!-- _Teamwork and collaboration_: One of the things I loved the most about Makers was the collaborative aspect and our group projects. It is truly rewarding to see the respective strengths of each team member come together to create something that works well. -->
-
-<!-- _Problem Solving_: It might sound crazy but I love being challenged and come up with practical solutions. -->
-
-<!-- With a retail and customer support background, problem-solving and high quality service delivery have been at the forefront of my professional life. Meanwhile my curiosity in technology introduced me to the world of coding so I decided to challenge myself and pursue a new career goal as software developer to seek a more fulfilling and creative professional direction and make real-world impact with my skills through tech.
-
- My career-changing journey started by teaching myself for a while until I came across [Makers Academy Bootcamp](https://makers.tech/), where I have adopted coding best-practices and developed an even stronger foundation of programming concepts. I operate well individually, though I thrive in a collaborative environment as part of a productive team to produce high-quality-code.
-
- I'm constantly driven to keep learning and growing both personally and professionally and always ready to meet challenges and new opportunities. I am thrilled by the opportunity of working in a company with a supportive and stimulating environment where I can bring my dedication and my skills to make my part in an ever evolving tech world in need of immediate and constant solutions.  -->
-
-
-<!-- As a self-motivated and driven individual with a curiosity in technology, I decided to challenge myself and pursue my career goal in software development to seek a more fulfilling and creative professional direction.
-
-I began my career-changing journey by self-teaching myself how to code and then with [Makers Academy](https://makers.tech/) where I have adopted coding best-practices and developed a strong foundation of programming concepts. This has enabled me to both self-manage during individual projects, as well as collaborate as part of a productive team to produce high-quality-code.
-
-I'm determined to continue extending my programming knowledge as a software developer. I'm a methodical problem solver when working and collaborating with others and I have the drive to learn and test new concepts as the technology evolves fast and it brings meaningful changes in almost every major industry. -->
-
-## Projects
+### Tech Projects
 
 | Name                                                                    | Description                                                       | Technologies Used                                                                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -56,6 +24,15 @@ I'm determined to continue extending my programming knowledge as a software deve
 | [Sportify](https://github.com/samuelmbp/sportify) | A multi-page web application for newcomers and more experienced fitness users. Can choose existing or customize their own workouts based on their strength level | `.javascript` `.react` `.nodejs` `.express` `.mongodb`    `.mongoose` `.jest` `.react testing library`  `.html`  `.css`
 | [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social media website that users can interact with each other. This can be done by signing up, personalizing their profile page, creating posts, liking and commenting on other peoples posts                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
 | [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travellers going away. The platform allows hosts to list the properties they would like to rent out to guests, and for guests to pick their preferred choice of rental. In the same time it allows hosts to manage their diary, approve specific booking requests and more  | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
+
+### Tech Skills
+
+- `JavaScript` `NodeJS` `Express` `React` `Jest` `HTML` `CSS` 
+- `Ruby` `RSpec` `Sinatra` `Capybara`
+- `Python` `Django` `Django-Rest-Framework`
+- `Java`
+- `PostgreSql` `MongoDB` `Mongoose`  
+- `Git` `Github`
 
 
 ## Skills
