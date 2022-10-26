@@ -80,3 +80,21 @@ I am curious by nature and my sharp spirit of observation coupled with my goal f
 * I became fluent in Italian after meeting my Italian wife. I am also fluent in English and Romanian.
 * I used lockdown to teach myself to code. I undertook multiple self-teaching courses consisting of different programming languages such as JavaScript, Java, and Python in order to understand the frameworks and concepts of front-end & back-end development.
 * In two weeks and in a team of four, I created a MERN (MongoDB, Express, React and NodeJS) stack website that allows users to choose and customise their workouts. I was able to quickly adapt and encrypt the password storage to the database and implement the user authentication and registration.
+
+## Work Experience
+
+#### Stock Coordinator & Team Leader | Harrods Clinique (for Estée Lauder)  | Dec 2017 — Jan 2022
+
+
+ - Managed a team of twelve staff across six locations including Harrods, John Lewis Oxford Street and Peter Jones.
+ - Created and maintained a stock control system to maintain a stock accuracy of 96%.
+ - Oversaw visual merchandising according to Head Office layout requirements. 
+ - Maintaining high levels of stock organisation to track product and ensure all staff could allocate stock quickly and efficiently. 
+ - Building relationships with organisational buyers
+-  Sales and customer service when required to provide high-end customer experience. 
+
+#### Customer Service | ASDA | SEP 2016 — DEC 2017
+
+- Arranged and aesthetically displayed the products
+- Managed and organized a team of four to maintain the standard of the workload
+- Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
