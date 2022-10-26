@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[PROJECTS](#tech-projects) | [SKILLS](#tech-skills) | [TECHNICAL EDUCATION](#technical-education) | [WORK EXPERIENCE](#work-experience) |  
+[PROJECTS](#tech-projects) | [SKILLS](#tech-skills) | [TECHNICAL EDUCATION](#technical-education) | [WORK EXPERIENCE](#work-experience)  
 [EDUCATION](#education) | [INTERESTS](#interests--activities) | [LINKEDIN](https://www.linkedin.com/in/samuel-raducan)
  
  <div align="left">
