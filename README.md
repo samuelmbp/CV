@@ -98,3 +98,19 @@ I am curious by nature and my sharp spirit of observation coupled with my goal f
 - Arranged and aesthetically displayed the products
 - Managed and organized a team of four to maintain the standard of the workload
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
+
+
+## Education
+
+#### Tourism & Hospitality Management | Technical College, Romania |  SEP 2010 — JUL 2014
+
+Including: English | Maths | Science | Information Technology | History & Geography
+  
+
+## Interests & Activities
+
+- 💻 **Technology**: Currently working on **[Spring Boot Registration System](https://github.com/samuelmbp/java-springboot-registration-system)** and practice **[Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)** problems
+- 📚 **Reading**: Currently reading **[Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)** by Robert C. Martin aka Uncle Bob
+- 💼 **Voluntary Work**: Weekly engaged in helping the community
+- 🏋🏻 **Fitness & Snowboarding**
+- ✈️ **Travelling & Languages**: Romanian(native), English(fluent), Italian(fluent), Spanish(basic)
