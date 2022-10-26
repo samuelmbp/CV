@@ -57,3 +57,26 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
   | [HTML - CSS](https://codewithmosh.com/p/the-ultimate-html-css), [JavaScript](https://codewithmosh.com/p/javascript-basics-for-beginners) & [NodeJs](https://codewithmosh.com/p/the-complete-node-js-course)| Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB                                                                         | April - September 2021 |
   | [Java](https://codewithmosh.com/p/the-ultimate-java-mastery-series)                                                                                                                                        | Fundamentals, Object-oriented Programming, Advanced Concepts                                                                               | January - March 2021   |
   | [Coursera: Python](https://www.coursera.org/specializations/python)                                                                                                                                | [Fundamentals](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306), [Data Structures](https://coursera.org/share/e740172916f20689fb452226ad247c30) |                                                                                                 October - November 2020  |                    |
+
+### Transferable Skills
+
+#### Solutions Focussed 
+  
+I joined Estee Lauder to manage their stock in various stores including Harrods. The previous manager had maintained only a 60% accuracy in stock control losing the company tens of thousands of pounds each year. In the first three months, I had increased the accuracy of the stock by 15% and within the four years of my employment the accuracy of the stock had risen to 96%. I achieved this success by getting to each store early every day to personally check inventories and meticulously training staff to maintain this standard when I was not at the store. At the end of my tenure, I managed a team of twelve who were able to offer a higher level customer experience as a result of well-managed stock. In addition, the brand was able to make better operational decisions about the profitability of the business.
+
+This systematic mindset to solve problems supported me at Makers. During [Acebook](https://github.com/samuelmbp/Acebook-nacho-libro), our group experienced challenges implementing encrypted password storage to the database. To solve this problem, I researched, identified, and implemented an encryption method (BCrypt) that worked. To ensure members of the group did not run into this challenge in the future, I also shared this knowledge with the team and demonstrated its functionality.
+  
+#### Teamwork Above Individual Success
+
+Completing a final group project at Makers requires a commitment to teamwork, communication, and building ways to work together within a high-pressure scenario in order to achieve a common goal. It was important to me that our team not only created an MVP we felt proud of but achieved this in a collaborative environment with trust, respect and opportunities to learn from each other. As an example, our project required password encryption which was a feature I’d researched and implemented in a previous project. I elected not to work on this so another member of the team could learn a new skill but when help was required, I worked to coach and guide my colleague through the process. We celebrated our wins along the way and in two weeks had not only created a multi-page fitness app using the MERN stack but felt a genuine, close and collaborative bond as a team which for me was an equal success.
+
+
+
+#### Fast and Driven Learner
+
+I am curious by nature and my sharp spirit of observation coupled with my goal focused approach has supported me in the following successes:
+  
+* After arriving in the UK age 19, I progressed quickly from retail assistant to managing my own stock department for several branches of Clinique (for Estée Lauder).
+* I became fluent in Italian after meeting my Italian wife. I am also fluent in English and Romanian.
+* I used lockdown to teach myself to code. I undertook multiple self-teaching courses consisting of different programming languages such as JavaScript, Java, and Python in order to understand the frameworks and concepts of front-end & back-end development.
+* In two weeks and in a team of four, I created a MERN (MongoDB, Express, React and NodeJS) stack website that allows users to choose and customise their workouts. I was able to quickly adapt and encrypt the password storage to the database and implement the user authentication and registration.
