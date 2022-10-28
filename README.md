@@ -60,7 +60,7 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
 
 ### Transferable Skills
 
-#### Solutions Focussed 
+#### Solutions Focused
   
 I joined Estee Lauder to manage their stock in various stores including Harrods. Before joining, the stock control had a 60% accuracy causing the company to lose tens of thousands of pounds each year. In my first three months, I had increased the accuracy of the stock by 15% and within the four years of my employment it had risen to 96%. I achieved this success by getting to each store early every day to personally check inventories and meticulously training staff to maintain this standard when I was not at the store. At the end of my tenure, I managed a team of twelve who were able to offer a higher level customer experience as a result of well-managed stock. In addition, the brand was able to make better operational decisions about the profitability of the business.
 
