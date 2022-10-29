@@ -26,6 +26,8 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
 | [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social media website that users can interact with each other. This can be done by signing up, personalizing their profile page, creating posts, liking and commenting on other peoples posts                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
 | [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travellers going away. The platform allows hosts to list the properties they would like to rent out to guests, and for guests to pick their preferred choice of rental. In the same time it allows hosts to manage their diary, approve specific booking requests and more  | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
 
+For a complete list, see my [Github](https://github.com/samuelmbp?tab=repositories).
+
 ### Tech Skills
 
 - `JavaScript` `NodeJS` `Express` `React` `Jest` `HTML` `CSS` 
