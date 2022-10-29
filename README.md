@@ -23,7 +23,7 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
 | [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)                    | Currently practicing Data Structure & Algorithms problems to enhance my problem-solving thinking with the aim to write simple, clean and high-quality code | `.javascript` `.jest`             |
 | [E-commerce Api](https://github.com/samuelmbp/ecommerce-api)                    | Practice with Django REST framework by building a RESTful API for an e-commerce store | `.python` `.django` `.django-rest-framework`, `.mysql`            |
 | [Sportify](https://github.com/samuelmbp/sportify) | A multi-page web application for newcomers and more experienced fitness users. Can choose existing or customize their own workouts based on their strength level | `.javascript` `.react` `.nodejs` `.express` `.mongodb`    `.mongoose` `.jest` `.react testing library`  `.html`  `.css`
-| [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social media website that users can interact with each other. This can be done by signing up, personalizing their profile page, creating posts, liking and commenting on other peoples posts                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
+| [Acebook Nacho Libro](https://github.com/samuelmbp/Acebook-nacho-libro) | Social media website where users can interact with each other. This can be done by signing up, personalizing their profile page, creating posts, liking and commenting on other peoples posts                                              | `.javascript` `.express` `.handlebars`, `.mongodb` `.mongoose` `.jest` `.cypress` `.git` `.html` `.css` |
 | [Makers bnb](https://github.com/samuelmbp/makersbnb)                    | Short-term rental website for travellers going away. The platform allows hosts to list the properties they would like to rent out to guests, and for guests to pick their preferred choice of rental. In the same time it allows hosts to manage their diary, approve specific booking requests and more  | `.ruby` `.sinatra` `.rspec` `.capybara` `.postgresql` `.active record` `.git` `.html` `.css`            |
 
 For a complete list, see my [Github](https://github.com/samuelmbp?tab=repositories).
@@ -45,11 +45,11 @@ For a complete list, see my [Github](https://github.com/samuelmbp?tab=repositori
 
 - Coded with high attention to detail by following principles such as TDD, SOLID, OOP, and MVC design patterns to create clear and high-quality code
 - Collaborated and communicated effectively with the team using agile methodologies when working in teams of 4-6 people to produce full-stack web applications
-- Took ownership of my own learning and time management to fully cover a vast material during the 16 weeks of Bootcamp. 
+- Took ownership of my own learning and time management to fully cover a vast material during the 16 weeks of Bootcamp
 - Assisted fellow team members during stand-ups and pair programming
 - Demonstrated leadership skills during daily stand-ups when working on group projects
 - Received and gave feedback using code reviews during group projects and pair programming
-- Solved and researched a variety of problems during weekly projects and weekend challenges.
+- Solved and researched a variety of problems during weekly projects and weekend challenges
   
   
 ### Additional Technical Courses and Certificates 
@@ -63,7 +63,7 @@ For a complete list, see my [Github](https://github.com/samuelmbp?tab=repositori
 
 ### Transferable Skills
 
-#### Solutions Focused
+#### Solution Focused
   
 I joined Estee Lauder to manage their stock in various stores including Harrods. Before joining, the stock control had a 60% accuracy causing the company to lose tens of thousands of pounds each year. In my first three months, I had increased the accuracy of the stock by 15% and within the four years of my employment it had risen to 96%. I achieved this success by getting to each store early every day to personally check inventories and meticulously training staff to maintain this standard when I was not at the store. At the end of my tenure, I managed a team of twelve who were able to offer a higher level customer experience as a result of well-managed stock. In addition, the brand was able to make better operational decisions about the profitability of the business.
 
@@ -89,12 +89,12 @@ I am curious by nature and my sharp spirit of observation coupled with my goal f
 #### Stock Coordinator & Team Leader | Harrods Clinique (for Estée Lauder)  | Dec 2017 — Jan 2022
 
 
- - Managed a team of twelve staff across six locations including Harrods, John Lewis Oxford Street and Peter Jones.
- - Created and maintained a stock control system to maintain a stock accuracy of 96%.
- - Oversaw visual merchandising according to Head Office layout requirements. 
- - Maintaining high levels of stock organisation to track product and ensure all staff could allocate stock quickly and efficiently. 
+ - Managed a team of twelve staff across six locations including Harrods, John Lewis Oxford Street and Peter Jones
+ - Created and maintained a stock control system to maintain a stock accuracy of 96%
+ - Oversaw visual merchandising according to Head Office layout requirements
+ - Maintaining high levels of stock organisation to track product and ensure all staff could allocate stock quickly and efficiently
  - Building relationships with organisational buyers
--  Sales and customer service when required to provide high-end customer experience. 
+-  Sales and customer service when required to provide high-end customer experience
 
 #### Customer Service | ASDA | SEP 2016 — DEC 2017
 
